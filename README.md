@@ -1,5 +1,5 @@
 # web3-kickstarter
-## Decentralized version of application kickstarter.com
+## Decentralized Crowdsourcing Application (Test Project)
 
 web3-kickstarter is decentralized application build on Ethereum to facilitate features like kickstarter by overcoming it's limitaion of possible Scams.
 
@@ -31,6 +31,8 @@ web3-kickstarter uses a number of open source projects to work properly:
 
 
 ## Installation
+### Note: Use only on Rinkby test Network, Do not send Real ETHER, it is only a test project.
+#### I am not responsible for your loss of any kind.
 
 web3-kickstarter [Node.js](https://nodejs.org/) v12+ to run.
 
