@@ -16,6 +16,12 @@ web3-kickstarter is decentralized application build on Ethereum to facilitate fe
 - Finalizing a Spending Request
 - Dashboard for visualisation
 
+## Some Screenshots
+![alt text](https://github.com/rgroshanrg/web3-kickstarter/blob/main/home.png?raw=true)
+![alt text](https://github.com/rgroshanrg/web3-kickstarter/blob/main/desc.png?raw=true)
+![alt text](https://github.com/rgroshanrg/web3-kickstarter/blob/main/requests.png?raw=true)
+
+
 
 ## Tech
 
